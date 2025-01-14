@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkonline_portfolio=self.webpackChunkonline_portfolio||[]).push([[855],{855:(e,l,n)=>{n.r(l),n.d(l,{default:()=>t});var r=n(127),o=n(579);const t=e=>{let{data:l}=e;return(0,o.jsx)("div",{className:"col",children:(0,o.jsxs)("a",{className:"btn rounded-pill shadow-none external-link w-100",href:l.value,role:"button",target:"_blank",rel:"noreferrer",children:[(0,o.jsx)(r.g,{icon:l.icon})," ",l.title]})})}}}]);
+//# sourceMappingURL=855.10eb98c2.chunk.js.map
