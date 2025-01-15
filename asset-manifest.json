@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "./static/css/main.eec9df57.css",
-    "main.js": "./static/js/main.1aef34e4.js",
+    "main.js": "./static/js/main.5d00a2a6.js",
     "static/js/579.47f3aa5a.chunk.js": "./static/js/579.47f3aa5a.chunk.js",
     "static/js/519.9862b35e.chunk.js": "./static/js/519.9862b35e.chunk.js",
     "static/js/434.450bc8ce.chunk.js": "./static/js/434.450bc8ce.chunk.js",
     "static/js/878.4d0da8ff.chunk.js": "./static/js/878.4d0da8ff.chunk.js",
-    "static/js/640.a94e0068.chunk.js": "./static/js/640.a94e0068.chunk.js",
+    "static/js/640.50120f38.chunk.js": "./static/js/640.50120f38.chunk.js",
     "static/js/453.3c98a1b9.chunk.js": "./static/js/453.3c98a1b9.chunk.js",
     "static/js/411.730e9716.chunk.js": "./static/js/411.730e9716.chunk.js",
     "static/js/855.10eb98c2.chunk.js": "./static/js/855.10eb98c2.chunk.js",
@@ -27,12 +27,12 @@
     "static/media/gappify.webp": "./static/media/gappify.3f6130bd8dd0d3f7fb92.webp",
     "index.html": "./index.html",
     "main.eec9df57.css.map": "./static/css/main.eec9df57.css.map",
-    "main.1aef34e4.js.map": "./static/js/main.1aef34e4.js.map",
+    "main.5d00a2a6.js.map": "./static/js/main.5d00a2a6.js.map",
     "579.47f3aa5a.chunk.js.map": "./static/js/579.47f3aa5a.chunk.js.map",
     "519.9862b35e.chunk.js.map": "./static/js/519.9862b35e.chunk.js.map",
     "434.450bc8ce.chunk.js.map": "./static/js/434.450bc8ce.chunk.js.map",
     "878.4d0da8ff.chunk.js.map": "./static/js/878.4d0da8ff.chunk.js.map",
-    "640.a94e0068.chunk.js.map": "./static/js/640.a94e0068.chunk.js.map",
+    "640.50120f38.chunk.js.map": "./static/js/640.50120f38.chunk.js.map",
     "453.3c98a1b9.chunk.js.map": "./static/js/453.3c98a1b9.chunk.js.map",
     "411.730e9716.chunk.js.map": "./static/js/411.730e9716.chunk.js.map",
     "855.10eb98c2.chunk.js.map": "./static/js/855.10eb98c2.chunk.js.map",
@@ -45,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.eec9df57.css",
-    "static/js/main.1aef34e4.js"
+    "static/js/main.5d00a2a6.js"
   ]
 }
